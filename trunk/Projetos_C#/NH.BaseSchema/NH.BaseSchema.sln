@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NH.BaseSchema", "NH.BaseSchema\NH.BaseSchema.csproj", "{09426D94-7898-4F75-8D34-AB74A6B4714F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NH.NHTools", "NH.NHTools\NH.NHTools.csproj", "{673028C3-1F45-441C-BBAA-B6BA8683B279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09426D94-7898-4F75-8D34-AB74A6B4714F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09426D94-7898-4F75-8D34-AB74A6B4714F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09426D94-7898-4F75-8D34-AB74A6B4714F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09426D94-7898-4F75-8D34-AB74A6B4714F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673028C3-1F45-441C-BBAA-B6BA8683B279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673028C3-1F45-441C-BBAA-B6BA8683B279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673028C3-1F45-441C-BBAA-B6BA8683B279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673028C3-1F45-441C-BBAA-B6BA8683B279}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
